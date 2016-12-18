@@ -1,0 +1,6 @@
+5
+	1	Robert C. Martin	Czysty kod	0	0
+	2	John R.R Tolkien	Druzyna Pierscienia	2	0
+	3	John R.R Tolkien	Dwie Wieze	3	1
+	4	George R.R Martin	Gra o Tron	5	0
+	5	John R.R Tolkien	Powrot Krola	0	2
